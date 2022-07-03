@@ -1,10 +1,9 @@
 ### 👋 I'm Rashad
 
-- I'm based in Los Angeles, CA 🏖
-- I primarily build 👷 backend applications, services, and APIs 
-  - Although I'm pretty productive working in React (and React Native)
-- [Rust](https://www.rust-lang.org/) is currently the tool I spend the most time working with
-- [Python](https://www.python.org/) is currently the tool I'm most fastest and most productive with 
-- As a advocate for both crypto and privacy, I wrote [xmrpy](https://github.com/aar3/xmrpy) to help developers quickly build Monero-based web applications
-- Most of my professional experience has been in web/network programming
+- I'm based in Los Angeles, CA 🏖 but work almost exclusively remote
+- I've led projects in both enterprise environments (e.g., [DuckDuckGo](https://en.wikipedia.org/wiki/DuckDuckGo)), as well as open source environments (e.g. [Fuel Labs](https://fuel.network/))
+  - Most of my professional experience has been in web/network programming and application development
   - I'm currently most interested in systems programming
+- I've programmed in production environments, at scale using:
+  - Rust, Python, Typescript/Javscript, and Perl
+- I'm personally passionate about various aspects of crypto and digital privacy
